@@ -1,1 +1,1 @@
-# Simple collaborative editor built with Socket.io, Quill and Nest.js
+# Simple collaborative editor built with Socket.io, Quill, Nest.js and MongoDB.
